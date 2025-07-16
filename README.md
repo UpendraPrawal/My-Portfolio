@@ -19,21 +19,33 @@ Welcome to my personal portfolio website! This site showcases my skills, project
 
 ## 📁 Project Structure
 
-Portfolio/
-├── index.html # Homepage
-├── about.html # About Me page
-├── projects.html # Projects showcase page
-├── contact.html # Contact page
-│
-├── css/
-│ └── style.css # Main CSS stylesheet
-│
-├── js/
-│ └── script.js # JavaScript file (animations, form validation, etc.)
-│
-├── assets/
-│ ├── images/ # Portfolio images, profile picture, project screenshots
-│ └── icons/ # Icons, logos, favicon
+📁 assets/
+├── 📁 css/
+│   ├── 🎨 404.css
+│   └── 🎨 style.css
+├── 🖼️ images/
+├── 📁 js/
+│   ├── 📜 404.js
+│   ├── 📜 app.js
+│   ├── 📜 particles.min.js
+│   └── 📜 script.js
+
+📁 experience/
+├── 📄 index.html
+├── 📜 script.js
+└── 🎨 style.css
+
+📁 projects/
+├── 📄 index.html
+├── 🧾 projects.json
+├── 📜 script.js
+└── 🎨 style.css
+
+📄 404.html  
+📄 index.html  
+🧾 skills.json  
+⚙️ desktop.ini
+
 
 
 ---
