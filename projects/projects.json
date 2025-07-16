@@ -1,0 +1,23 @@
+[
+  
+  {
+    "name": "Weather Site",
+    "desc": "Responsive Weather Website built using HTML, CSS, and JavaScript with real-time data from OpenWeatherMap API.",
+    "image": "instagrammern",
+    "category": "basicweb",
+    "links": {
+      "view": "https://upendraprawal.github.io/Weather-Site/",
+      "code": "https://github.com/UpendraPrawal/Weather-Site"
+    }
+  },
+  {
+    "name": "Social Media Site",
+    "desc": "Full-Stack Social Media Site built using Django, HTML, CSS, and JavaScript with features like user posts, likes, comments, and profile management.",
+    "image": "flipkartmern",
+    "category": "mern",
+    "links": {
+      "view": "",
+      "code": "https://github.com/UpendraPrawal/Social-Media-Site-"
+    }
+  }
+]
