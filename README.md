@@ -1,69 +1,75 @@
-# 🌐 Personal Portfolio Website
+<h1 align="center">My Portfolio 🌐</h1>
 
-Welcome to my personal portfolio website! This site showcases my skills, projects, and ways to connect with me. Built with love using HTML, CSS, and JavaScript.
+> A personal portfolio to showcase my skills, projects, and passion for web development.
 
-## 🔴 Live Demo
-
-👉 [Click Here to View](https://upendraprawal.github.io/My-Portfolio/) 👈
+My Portfolio is a responsive and modern website designed to highlight my work, provide contact options, and share more about who I am. Built with clean and elegant UI/UX, it works seamlessly across all devices.
 
 ---
 
-## 🧰 Tech Stack
+## 🚀 Features
 
-- 💻 HTML5
-- 🎨 CSS3
-- ⚡ JavaScript
-- 🌍 GitHub Pages (for hosting)
+- 🎨 Stylish and modern design  
+- 📱 Fully responsive on all screen sizes  
+- 📂 Project showcase section with details  
+- 📞 Integrated contact form using EmailJS  
+- 🧑 About Me section for personal background
+
+---
+
+## 🛠️ Technologies Used
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
+</p>
 
 ---
 
 ## 📁 Project Structure
 
-📁 assets/
-├── 📁 css/
-│   ├── 🎨 404.css
-│   └── 🎨 style.css
-├── 🖼️ images/
-├── 📁 js/
-│   ├── 📜 404.js
-│   ├── 📜 app.js
-│   ├── 📜 particles.min.js
-│   └── 📜 script.js
-
-📁 experience/
-├── 📄 index.html
-├── 📜 script.js
-└── 🎨 style.css
-
-📁 projects/
-├── 📄 index.html
-├── 🧾 projects.json
-├── 📜 script.js
-└── 🎨 style.css
-
-📄 404.html  
-📄 index.html  
-🧾 skills.json  
-⚙️ desktop.ini
-
+My-Portfolio/
+├── index.html # Homepage
+├── about.html # About Me page
+├── projects.html # Projects showcase page
+├── contact.html # Contact page
+├── css/
+│ └── style.css # Main CSS stylesheet
+├── js/
+│ └── main.js # JS functionality (if any)
+└── assets/
+├── images/ # All portfolio images
+└── icons/ # Social and tech icons
 
 
 ---
 
-## 📫 Contact Me
+## 🌐 Live Demo
 
-- 📧 Email: goluprawal3@gmail.com  
-- 💼 LinkedIn: (https://www.linkedin.com/in/upendra-prawal-98ba18191/))  
+Check out the live portfolio here:  
+👉 [Portfolio Live Demo](https://upendraprawal.github.io/My-Portfolio/)
 
 ---
 
-## 🚀 How to Run Locally
+## 💻 How to Use
 
-```bash
-git clone https://github.com/UpendraPrawal/Portfolio.git
-cd Portfolio
-# Open index.html in any browser
+1. Clone the repository:
 
+    ```bash
+    git clone https://github.com/UpendraPrawal/My-Portfolio.git
+    ```
 
-❤️ Thank You for Visiting!
-If you like it, feel free to ⭐ the repo and share feedback!
+2. Open the `index.html` file in your preferred browser.
+
+3. Customize it by updating your personal details, project links, and social profiles.
+
+---
+
+## 🤝 Contribution
+
+Feel free to fork the repo, create pull requests, or open issues to suggest improvements. Collaboration is welcome!
+
+---
+
+Made with ❤️ by Upendra Prawal  
+🔗 [GitHub Profile](https://github.com/UpendraPrawal)
