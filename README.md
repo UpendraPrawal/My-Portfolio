@@ -53,7 +53,7 @@ Welcome to my personal portfolio website! This site showcases my skills, project
 ## 📫 Contact Me
 
 - 📧 Email: goluprawal3@gmail.com  
-- 💼 LinkedIn: (https://linkedin.com/in/yourname](https://www.linkedin.com/in/upendra-prawal-98ba18191/))  
+- 💼 LinkedIn: (https://www.linkedin.com/in/upendra-prawal-98ba18191/))  
 
 ---
 
